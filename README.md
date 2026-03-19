@@ -33,7 +33,7 @@ This dashboard is divided into key modules to help students/teachers manage data
 
 ---
 
-## 🛠️ Key Learnings from Day 5
+##  Key Learnings from Day 5
 
 * **Git Workflow:** Learned how to `add`, `commit`, and `push` code via the terminal.
 * **Deployment:** Understanding how to host a static website for free.
@@ -41,7 +41,7 @@ This dashboard is divided into key modules to help students/teachers manage data
 
 ---
 
-## 📖 Code Snippet Example
+##  Code Snippet Example
 
 ```html
 <section class="attendance-form">
